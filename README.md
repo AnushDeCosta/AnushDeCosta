@@ -54,4 +54,11 @@ Deepening my expertise in advanced analytics techniques, including machine learn
 - Seaborn
 - scikit-learn
 
+🐙 **Certifications**
+- Certificate in Data Analytics from Monash University
+- Google Data Analytics Certification
+
+ <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnushDeCosta&show_icons=true&locale=en" alt="AnushDeCosta" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnushDeCosta&" alt="AnushDeCosta" /></p>
+-->
+
