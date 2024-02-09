@@ -15,7 +15,7 @@ With a background in administration, logistics, and photography, I've transition
 
 - 📫 Reach me at **anush.de.costa@gmail.com**
   
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in//anush-de-costa/)
+- 💼 Connect with me on <a href="https://www.linkedin.com/in/anush-de-costa/" target="_blank">LinkedIn</a>
 
 <h1>🌱 I've already learnt how to...</h1>
 
