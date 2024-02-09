@@ -11,7 +11,7 @@ With a background in administration, logistics, and photography, I've transition
 
 - 📝 Exploring the intersection of data analytics and business decision-making through blogging and case studies.
 
-- 👨‍💻 My portfolio showcasing various projects is available [here!](https://github.com/AnushDeCosta?tab=repositories)
+- 👨‍💻 My portfolio showcasing various projects is available <a href="https://github.com/AnushDeCosta?tab=repositories" target="_blank">here!</a>
 
 - 📫 Reach me at **anush.de.costa@gmail.com**
   
