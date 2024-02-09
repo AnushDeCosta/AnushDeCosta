@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Anush from Melbourne, Australia</h1>
 
-<p align="center"> Data Analytics Professional | Passionate about leveraging data for insights and business growth.<br>
+<h3 align="center"> Data Analytics Professional | Passionate about leveraging data for insights and business growth.</h3>
 
 With a background in administration, logistics, and photography, I've transitioned into data analytics, where I blend analytical skills with creativity. Recently completed a Data Analytics bootcamp by Monash University and currently enhancing my skills through a Google Data Analytics certification. I'm proficient in Python, R, SQL, and data visualization tools like Tableau and Power BI. Eager to dive deeper into data science and analytics.</p>
 <hr>
