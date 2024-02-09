@@ -32,7 +32,6 @@ Deepening my expertise in advanced analytics techniques, including machine learn
 
 **Programming Languages**
 - Python 
-- R
 - SQL
 - JavaScript
 - HTML5
@@ -40,7 +39,6 @@ Deepening my expertise in advanced analytics techniques, including machine learn
 
 **Applications**
 - Tableau
-- Power BI
 - GitHub
 - MongoDB
 - MySQL
