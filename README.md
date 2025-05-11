@@ -1,62 +1,81 @@
-<h1 align="center">Hi there👋, I'm Anush from Melbourne, Australia</h1>
+<h1 align="center">Hi there 👋, I'm Anush from Melbourne, Australia</h1>
 
-<h3 align="center"> Data Analytics Professional | Passionate about leveraging data for insights and business growth.</h3>
+<h3 align="center">Data Analyst | Passionate about automation, storytelling, and solving real-world problems with data</h3>
 
-With a background in administration, logistics, and photography, I've transitioned into data analytics, where I blend analytical skills with creativity. Recently completed a Data Analytics bootcamp by Monash University and currently enhancing my skills through a Google Data Analytics certification. I'm proficient in Python, R, SQL, and data visualization tools like Tableau and Power BI. Eager to dive deeper into data science and analytics.</p>
-<hr>
+---
 
-- 🔭 I’m currently working on projects that apply my data analytics skills to real-world datasets, focusing on delivering actionable insights.
+I'm a **data-driven professional** with 10+ years' background in logistics, operations, and creative arts — now channelled into data analytics. I’ve delivered measurable impact through automation, data cleaning, and reporting solutions using **Python, SQL, and Excel**. 
 
-- 📚 Currently expanding my knowledge on data analytics through Google's Data Analytics Professional Certificate.
+Currently pursuing a **Bachelor of Data Analytics** at the University of South Australia and expanding my knowledge with the **Google Data Analytics Professional Certificate**.
 
-- 📝 Exploring the intersection of data analytics and business decision-making through blogging and case studies.
+I enjoy building tools, visualisations, and stories that turn raw data into business insight.
 
-- 👨‍💻 My portfolio showcasing various projects is available <a href="https://github.com/AnushDeCosta?tab=repositories" target="_blank">here!</a>
+---
 
-- 📫 Reach me at **anush.de.costa@gmail.com**
-  
-- 💼 Connect with me on <a href="https://www.linkedin.com/in/anush-de-costa/" target="_blank">LinkedIn</a>
+### 🔭 Current Focus
+- Building real-world data analytics projects using Python, SQL, and Tableau  
+- Learning advanced analytics techniques (machine learning, predictive modelling)  
+- Enhancing my knowledge through academic and industry certifications  
+- Blending creativity with logic — from dashboards to algorithms  
 
-<h1>🌱 I've already learnt how to...</h1>
+---
 
-- Analyze and visualize data using Python, R, SQL, and JavaScript, with tools and libraries like Pandas, Seaborn, and Jupyter Notebook.
-- Utilize data visualization platforms such as Tableau and Power BI to create compelling data stories.
-- Work with databases (SQL and NoSQL) including MongoDB, MySQL, and PostgreSQL, managing data operations efficiently.
-- Develop ETL pipelines and data analytics projects from concept to execution, applying best practices in data handling and analysis.
-- Leverage Flask for creating web applications and integrating data analytics functionalities.
+### 📌 Featured Projects
 
-<h1>🔮 What's next:</h1>
-Deepening my expertise in advanced analytics techniques, including machine learning and predictive modeling.
+🔐 [**Caesar Cipher Encryption**](https://github.com/AnushDeCosta/Caesar_Cipher)  
+> Python tool for encrypting, decrypting, and brute-forcing Caesar ciphers. Showcases algorithmic thinking and clean, modular code.
 
-<h1 align="left">Languages and Tools:</h1>
+📊 [**Legacy Employee Database Analysis**](https://github.com/AnushDeCosta/SQL-Legacy-Employee-Database-Analysis)  
+> PostgreSQL queries to analyse workforce trends, tenure, and salaries — optimising decision-making for HR and operations.
 
-**Programming Languages**
-- Python 
-- SQL
-- JavaScript
-- HTML5
-- NoSQL
+🌤️ [**Weather & Vacation Recommender**](https://github.com/AnushDeCosta/Python-WeatherVacation-Api)  
+> API-powered data analysis across 500+ cities to recommend ideal travel destinations. Involves data collection, wrangling, and visualisation.
 
-**Applications**
-- Tableau
-- GitHub
-- MongoDB
-- MySQL
-- PostgreSQL
-- Flask
+📈 [**VBA Stock Market Data Analysis**](https://github.com/AnushDeCosta/VBA-Stock-Market-Data-Analysis)  
+> Automated Excel VBA workflow to track, analyse, and summarise stock data — a blend of financial logic and macros.
 
-**Tools**
-- Pandas
-- Jupyter Notebook
-- Excel
-- Seaborn
-- scikit-learn
+🛍️ [**OOP Store Simulator**](https://github.com/AnushDeCosta/oop-store-simulator)  
+> Object-oriented Python app simulating a store's product management system — demonstrating class design, encapsulation, and usability.
 
-🐙 **Certifications**
-- Certificate in Data Analytics from Monash University
-- Google Data Analytics Certification
+🪐 [**Solar System Exploration**](https://github.com/AnushDeCosta/solar-system-exploration)  
+> OOP-based simulation that models planets and a solar system, highlighting my understanding of classes, relationships, and data validation.
 
- <!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnushDeCosta&show_icons=true&locale=en" alt="AnushDeCosta" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnushDeCosta&" alt="AnushDeCosta" /></p>
+---
+
+### 📚 Skills & Tools
+
+**Programming & Scripting**  
+`Python` • `SQL` • `JavaScript` • `HTML` • `VBA` • `NoSQL`
+
+**Data Analysis & Visualisation**  
+`Pandas` • `Seaborn` • `Excel (Power Query & VBA)` • `Tableau` • `Power BI` • `Jupyter`
+
+**Database Management**  
+`PostgreSQL` • `MySQL` • `MongoDB`
+
+**Development & Web Tools**  
+`GitHub` • `Flask` • `ETL Pipelines` • `API Integration`
+
+---
+
+### 🧠 Education & Certifications
+
+🎓 **Bachelor of Data Analytics**, University of South Australia (Current)  
+🎓 **Certificate in Data Analytics**, Monash University – *WAM: 98.86%*  
+📜 **Google Data Analytics Certificate**, Coursera (In Progress)
+
+---
+
+### 📫 Let’s Connect
+
+- 📩 anush.de.costa@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/anush-de-costa/)  
+- 🔍 [Explore my GitHub Projects](https://github.com/AnushDeCosta?tab=repositories)
+
+---
+
+<!-- Optional GitHub stats - uncomment to enable
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnushDeCosta&show_icons=true&hide_title=true&hide=stars&count_private=true&theme=default" alt="Anush GitHub Stats"/>
+</p>
 -->
-
